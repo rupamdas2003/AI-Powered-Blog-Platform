@@ -41,6 +41,7 @@ AI-Powered Blog Platform is a modern web application that leverages Artificial I
 1. Easily browse and access previously created blog posts.
 2. Quick content management through an organized dashboard.
 
+---
 
 ## Technology Stack
 
@@ -62,6 +63,7 @@ i) Auth0
 Artificial Intelligence:
 i) OpenAI API
 
+---
 
 ## System Architecture
 
@@ -74,7 +76,7 @@ The platform follows a full-stack architecture-
 5. Generated content and user data are stored in MongoDB.
 6. Users can view, edit, and manage their generated blogs through the dashboard.
 
-
+---
 
 ## Installation
 
@@ -144,6 +146,7 @@ Publish and Share:
 
 Use generated content as a foundation for publishing on personal or professional blogging platforms.
 
+---
 
 ## Project Benefits
 
@@ -153,6 +156,7 @@ Use generated content as a foundation for publishing on personal or professional
 4. Provides a secure and scalable blogging environment.
 5. Offers a seamless user experience with modern web technologies.
 
+---
 
 ## Future Enhancements
 
@@ -163,6 +167,8 @@ Use generated content as a foundation for publishing on personal or professional
 5. AI-generated image suggestions.
 6. Real-time collaborative editing.
 7. Analytics dashboard for blog performance tracking.
+
+---
 
 ## Conclusion
 
