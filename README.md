@@ -3,7 +3,6 @@
 **AI-Powered Blog Content Generator**  
 AI-Powered Blog Platform is a modern web application that leverages Artificial Intelligence to help users create, manage, and publish high-quality blog content efficiently. By integrating advanced AI models, the platform generates blog titles, summaries, and complete articles based on user-provided topics or prompts, making content creation faster and more productive for bloggers, writers, and digital marketers.
 
-![Demo Screenshot](/public/homeScreenshot.png)
 
 ---
 
